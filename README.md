@@ -1,4 +1,4 @@
-# Named Entity Recognition Demo
+# Named Entity Recognition (NER) Demo - 21CSE356T - Natural Language Processing (NLP)
 
 A Named Entity Recognition (NER) web app built with BERT and Streamlit. Identifies and highlights entities like persons, organizations, locations, and miscellaneous terms in any text — with confidence scores, uncertainty detection, and analysis history.
 
@@ -102,4 +102,4 @@ ner-demo/
 
 ## Author
 
-Karthik Ganesan — BTech CSE
+Karthik Ganesan
